@@ -62,6 +62,7 @@
   <ItemGroup>
     <ClCompile Include="heapSort.cpp" />
     <ClCompile Include="heapsort2.cpp" />
+    <ClCompile Include="quickSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

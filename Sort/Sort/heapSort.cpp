@@ -32,7 +32,7 @@ void HeapSort(int *data, int length)
 		HeapAdjust(data, i, 0);
 	}
 }
-int main()
+int main1()
 {
 	int data[] = {4, 3, 6, 9, 7, 13, 27, 49};
 	int length = 8;
